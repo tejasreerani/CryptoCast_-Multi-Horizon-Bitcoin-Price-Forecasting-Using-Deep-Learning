@@ -116,10 +116,10 @@ streamlit run app.py
 <img width="709" height="490" alt="image" src="https://github.com/user-attachments/assets/03eadc79-5a8f-41a3-a351-5697d3c6cefb" />
 
 * Model comparision
-  <img width="713" height="461" alt="image" src="https://github.com/user-attachments/assets/65f9340e-b6c9-449d-8638-01f82cf71033" />
+<img width="713" height="461" alt="image" src="https://github.com/user-attachments/assets/65f9340e-b6c9-449d-8638-01f82cf71033" />
 
 * Actual Vs Predicted graphs
-  <img width="688" height="440" alt="image" src="https://github.com/user-attachments/assets/45da390a-b075-4ff0-bd0a-724763413b32" />
+<img width="688" height="440" alt="image" src="https://github.com/user-attachments/assets/45da390a-b075-4ff0-bd0a-724763413b32" />
 
 ----
 
