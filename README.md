@@ -115,16 +115,13 @@ streamlit run app.py
 * Home page
 <img width="709" height="490" alt="image" src="https://github.com/user-attachments/assets/03eadc79-5a8f-41a3-a351-5697d3c6cefb" />
 
-* Prediction dashboard
-  <img width="705" height="246" alt="image" src="https://github.com/user-attachments/assets/feebb4b9-612e-4900-bc1f-7ae7f49255c2" />
+* Model comparision
+  <img width="713" height="461" alt="image" src="https://github.com/user-attachments/assets/65f9340e-b6c9-449d-8638-01f82cf71033" />
 
 * Actual Vs Predicted graphs
-  <img width="695" height="325" alt="image" src="https://github.com/user-attachments/assets/a2ea8782-c90f-40d4-89bf-58e3e1c9da6b" />
+  <img width="688" height="440" alt="image" src="https://github.com/user-attachments/assets/45da390a-b075-4ff0-bd0a-724763413b32" />
 
-* Charts for 1 day, 3days and 7days prediction movement
-  <img width="704" height="296" alt="image" src="https://github.com/user-attachments/assets/c1f6ee08-cbde-4564-9078-e90752e2f06b" />
-
- ---
+----
 
 ## Requirements.txt
  * streamlit
